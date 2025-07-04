@@ -1,0 +1,4 @@
+[2025-07-04T16:48:52.783Z] INFO  Server started on port 3000
+[2025-07-04T16:48:52.785Z] ERROR Failed to connect to DB!
+[2025-07-04T16:48:52.786Z] DEBUG User data:
+[2025-07-04T16:48:52.787Z] SILLY This is a silly log!
